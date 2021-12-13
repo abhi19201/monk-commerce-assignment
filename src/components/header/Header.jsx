@@ -26,6 +26,7 @@ const StyledHeaderComponent = styled.div`
             margin-bottom: 0;
             transition: 0.3s ease-in;
             text-decoration: none;
+            color: #4f5665;
 
             &:hover {
                 cursor: pointer;
